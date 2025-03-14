@@ -1,2 +1,3 @@
 ### ESAA
-YB(24 Fall), OB(25 Spring)
+📊 YB (24 Fall)
+📊 OB (25 Spring)
