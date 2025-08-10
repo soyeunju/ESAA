@@ -1,4 +1,4 @@
-### ESAA 📊📈
+### Ewha Statistics Analysis Association 📊📈
 YB (24 Fall)
   * 파이썬 머신러닝 완벽 가이드 교재로 머신러닝 기본 개념에 대해 학습
 
